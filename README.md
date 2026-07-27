@@ -81,7 +81,7 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 </a>
 
 <a href="seyedsoheilsamandar12@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 
