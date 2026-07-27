@@ -89,7 +89,6 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 
 ---
 
-
 <h3 align="center">
 ⭐ "Building intelligent robots and inspiring the next generation of innovators."
 </h3>
