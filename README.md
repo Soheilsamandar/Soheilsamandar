@@ -80,7 +80,7 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,linux,ubuntu,vscode,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
 
 </p>
 
