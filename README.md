@@ -72,7 +72,7 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/Soheilsamandar)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -80,10 +80,13 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="seyedsoheilsamandar12@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/AlphaRoboticsTeam)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
