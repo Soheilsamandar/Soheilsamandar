@@ -76,13 +76,15 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
   <img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://github.com/AlphaRoboticsTeam" target="_blank">
+  <img src="https://img.shields.io/badge/Alpha_Robotics_Team-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="seyedsoheilsamandar12@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/AlphaRoboticsTeam" target="_blank">
-  <img src="https://img.shields.io/badge/Alpha_Robotics_Team-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 </p>
 
 ---
