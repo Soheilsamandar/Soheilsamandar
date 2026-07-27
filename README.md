@@ -28,7 +28,7 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino,tensorflow,pytorch,opencv,vscode,git,github,linux,ubuntu,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,tensorflow,pytorch,opencv"/>
 
 </p>
 
