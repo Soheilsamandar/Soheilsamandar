@@ -88,19 +88,6 @@ Computer Engineering Student | Robotics Instructor | AI & Computer Vision Enthus
 
 ---
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 <h3 align="center">
 ⭐ "Building intelligent robots and inspiring the next generation of innovators."
